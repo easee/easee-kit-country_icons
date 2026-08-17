@@ -1,0 +1,19 @@
+{
+    "[dart]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": false,
+        "editor.detectIndentation": false,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        }
+    },
+    "dart.enableSdkFormatter": false,
+    "dart.updateImportsOnRename": true,
+    "dart.showTodos": true,
+    "[python]": {
+        "editor.codeActionsOnSave": {}
+    },
+    // This should be resolved automatically, thus commented out
+    // "dart.flutterSdkPath": "$FLUTTER_ROOT",
+    // "dart.sdkPath": "$DART_ROOT"
+}
