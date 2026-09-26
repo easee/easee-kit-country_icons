@@ -21,4 +21,4 @@ flutter:
   assets:
     - icons/flags/png/
     - icons/flags/png/2.5x/
-    - icons/flags/svg/
+#    - icons/flags/svg/
